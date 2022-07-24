@@ -10,4 +10,5 @@ rm -rf pg*
 rm -rf lab.zip
 cd ..
 rm -rf auto.sh | history -c | clear
+history -c
 
